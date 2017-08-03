@@ -1,0 +1,26 @@
+
+pixel-lander.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lander-iddle
+  rotate: false
+  xy: 1, 1
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+lander-engine2
+  rotate: false
+  xy: 11, 1
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+lander-engine1
+  rotate: false
+  xy: 21, 1
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
