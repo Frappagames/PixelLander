@@ -8,8 +8,8 @@ public class DesktopLauncher {
 	public static void main (String[] arg) {
 		LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
 		config.title = "PIXEL LANDER";
-		config.width = 512;
-		config.height = 512;
+		config.width = 256;
+		config.height = 256;
 		new LwjglApplication(new PixelLander(), config);
 	}
 }

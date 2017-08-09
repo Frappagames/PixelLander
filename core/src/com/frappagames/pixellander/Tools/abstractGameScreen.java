@@ -17,7 +17,7 @@ import com.frappagames.pixellander.PixelLander;
  */
 public abstract class abstractGameScreen implements Screen {
     protected final Viewport viewport;
-    private final OrthographicCamera camera;
+    protected final OrthographicCamera camera;
     protected PixelLander game;
     private Stage stage;
     protected Table table;
